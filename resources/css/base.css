@@ -354,7 +354,7 @@ footer {
   grid-template-columns: repeat(4, 1fr);
   grid-column-gap: 1em;
   padding: 1.75rem 50vw;
-  margin: 0 -50vw;
+  margin: 30px -50vw 0 -50vw;
   background-color: #BBAC88;
   max-width: inherit;
 }
